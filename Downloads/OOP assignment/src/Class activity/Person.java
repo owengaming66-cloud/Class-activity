@@ -1,4 +1,5 @@
-package Class activity;
+package Classactivity;
+
 abstract class person {
     protected String name;
     protected int age;

@@ -1,4 +1,4 @@
-package Class activity;
+package Classactivity;
 
 public class Hospital {
     private String HospitalName;

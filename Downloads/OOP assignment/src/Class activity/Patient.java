@@ -1,4 +1,4 @@
-package Class activity;
+package Classactivity;
 
 public class Patient extends person {
     private String illness;

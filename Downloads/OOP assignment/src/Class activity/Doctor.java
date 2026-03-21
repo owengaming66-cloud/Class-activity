@@ -1,4 +1,4 @@
-package Class activity;
+package Classactivity;
 
 public class Doctor extends person implements Payable {
     private String specialization;

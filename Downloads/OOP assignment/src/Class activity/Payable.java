@@ -1,4 +1,4 @@
-package Class activity;
+package Classactivity;
 
 interface Payable {
     double calculatePayment();
